@@ -7,6 +7,11 @@ export default function Home() {
         </button>
       </div>
       <div className="bg-gray-500 hover:bg-blue-600 ...">Hover Me</div>
+
+      <a href="#">
+        <svg></svg>
+        <span className="sr-only">User Profile</span>
+      </a>
     </>
   );
 }
