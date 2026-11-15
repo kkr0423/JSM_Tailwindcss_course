@@ -10,7 +10,7 @@ export default function Home() {
 
       <a href="#">
         <svg></svg>
-        <span className="sr-only">User Profile</span>
+        <span className="sr-only sm:not-sr-only">User Profile</span>
       </a>
     </>
   );
