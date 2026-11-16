@@ -6,6 +6,11 @@ export default function Home() {
           Click Me
         </button>
       </div>
+      <div>
+        <button className="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...">
+          Download
+        </button>
+      </div>
       <div className="bg-gray-500 hover:bg-blue-600 ...">Hover Me</div>
 
       <a href="#">
