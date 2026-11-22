@@ -12,7 +12,7 @@ export default function Home() {
         </button>
       </div>
       <div className="bg-gray-500 hover:bg-blue-600 ...">Hover Me</div>
-      <div className="animate-spin h-6 w-6 ...">Spin</div>
+      <div className="animate-ping h-6 w-6 ...">Spin</div>
 
       <a href="#">
         <svg></svg>
