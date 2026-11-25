@@ -13,6 +13,7 @@ export default function Home() {
       </div>
       <div className="bg-gray-500 hover:bg-blue-600 ...">Hover Me</div>
       <div className="animate-ping h-6 w-6 ...">Spin</div>
+      <div className="animate-bounce h-6 w-6 ...">Bounce</div>
 
       <a href="#">
         <svg></svg>
