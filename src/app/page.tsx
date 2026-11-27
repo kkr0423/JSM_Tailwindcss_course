@@ -19,6 +19,12 @@ export default function Home() {
         <svg></svg>
         <span className="sr-only sm:not-sr-only">User Profile</span>
       </a>
+
+      <div className="flex gap-2 mb-4">
+        <button className="cursor-pointer bg-blue-500 text-white p-4 rounded">Click me</button>
+        <button className="cursor-wait bg-blue-500 text-white p-4 rounded">Please wait</button>
+        <button className="cursor-not-allowed bg-blue-500 text-white p-4 rounded">No access</button>
+      </div>
     </>
   );
 }
